@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <title>Jena and Michael</title>
+    <link>https://johnsey.love</link>
+    <pubDate>Sat, 06 Jan 2018 16:14:33 +0000</pubDate>
+    <description />
+    <language>en-US</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:author>
+      <wp:author_id>776326782</wp:author_id>
+      <wp:author_login>mjohnsey@gmail.com</wp:author_login>
+      <wp:author_email>mjohnsey@gmail.com</wp:author_email>
+      <wp:author_display_name><![CDATA[Michael Johnsey]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[Michael]]></wp:author_first_name>
+      <wp:author_last_name><![CDATA[Johnsey]]></wp:author_last_name>
+    </wp:author>
+    <wp:category>
+      <wp:cat_name><![CDATA[Personal - null]]></wp:cat_name>
+      <wp:category_nicename>Personal-null</wp:category_nicename>
+      <wp:category_parent />
+    </wp:category>
+    <item>
+      <link>/details/</link>
+      <title>Details</title>
+      <pubDate>Sat, 30 Jun 2018 20:22:17 +0000</pubDate>
+      <content:encoded><![CDATA[<h1 class="text-align-center">Ceremony and Reception</h1><h2 class="text-align-center">August 18, 2017<br />Ceremony - 7 PM<br />Reception to Follow</h2><h3 class="text-align-center">Cedar Hall</h3><p class="text-align-center">3712 Broadway Rd.<br />Memphis, TN 38135</p>
+  
+      <img src="https://static1.squarespace.com/static/5a50f5e99f07f5be3ce73de1/t/5b37e567562fa78787a4314f/1530390134960/cedar_hall.jpg?format=original" alt=""/>
+  
+
+&nbsp;<hr /><h2>FAQ</h2><h3>Can I bring a date?</h3><p>Absolutely! If the invitation did not have your plus one you are still welcome to bring one, we only ask that you indicate that on your RSVP. Food is by the person, so please only bring a date if you indicated it on your RSVP.</p><h3>Can I bring the kids?</h3><p>We love your kids, but we ask that you take the night off and get a babysitter.</p><h3>What should I wear?</h3><p>Don't you wish that every wedding you went to included this section? It's Memphis in August - it will be hot! Our ceremony and reception will be inside with a cocktail hour in-between on the patio (weather permitting).</p><p>Ladies - Wear your favorite sun dress</p><p>Guys - Khakis and a Polo are just fine</p>]]></content:encoded>
+      <wp:post_name>details</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>0</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/registry/</link>
+      <title>Registry</title>
+      <pubDate>Thu, 05 Jul 2018 17:31:41 +0000</pubDate>
+      <content:encoded><![CDATA[<h1 class="text-align-center">Registry</h1>
+  
+      <a href="https://shopbellavita.com/gifts/index/view/code/14132bd9322aed36e8331636a1875f75/"  target="_blank" ><img src="https://static1.squarespace.com/static/5a50f5e99f07f5be3ce73de1/t/5b37d967575d1fcdb1df7742/1530811899062/bella_vita_storefront.png?format=original" alt=""/></a>
+  
+
+
+
+<div class="zola-block-wrapper">
+  <a 
+    class="zola-registry-embed"
+    href="https://www.zola.com/registry/michaelandjena2018" 
+    data-registry-key="michaelandjena2018" 
+    data-max-items="12"
+     
+    data-partner-id="squarespace" 
+    data-zola-script-src="https://widget.zola.com/js/widget.js">
+  </a>
+</div>]]></content:encoded>
+      <wp:post_name>registry</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>1</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/rsvp/</link>
+      <title>RSVP</title>
+      <pubDate>Sat, 06 Jan 2018 17:16:14 +0000</pubDate>
+      <content:encoded><![CDATA[<h1 class="text-align-center">RSVP</h1><p dir="ltr">If you made it this far you must have your Save the Date! You can save a trip to the mailbox when the formal invitation comes by filling our your info here, or just send back the card included in your invitation.</p>]]></content:encoded>
+      <wp:post_name>rsvp</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>2</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/contact/</link>
+      <title>Get in Touch</title>
+      <pubDate>Sat, 06 Jan 2018 17:11:31 +0000</pubDate>
+      <content:encoded><![CDATA[<h1 class="text-align-center">Get in Touch</h1><p>We have most of your numbers so just give us a call. If you need to get in touch but do not have our phone number use the form below,&nbsp;find us on Facebook, or send an email to <a href="mailto://wedding@johnsey.me">wedding@johnsey.me</a>.</p>
+
+
+
+<div class="form-wrapper" >
+
+  
+
+  <div class="form-inner-wrapper">
+
+    <form autocomplete="on" action="https://michael-johnsey-pyjt.squarespace.com" method="POST" onsubmit="
+      return (function(form) {
+        Y.use('squarespace-form-submit', 'node', function(Y){
+          (new Y.Squarespace.FormSubmit({
+            formNode: Y.Node(form)
+          })).submit('5a5102d1419202e32414d816', '', 'page-5a50f92f24a694bca82038a9');
+        });
+        return false;
+      })(this)" data-form-id="5a5102d1419202e32414d816">
+
+      
+
+        <div class="field-list clear">
+
+        
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+              <fieldset id="name-yui_3_17_2_19_1515255280581_5917" class="form-item fields name required">
+              <div class="title">Name <span class="required">*</span></div>
+              <legend>Name</legend>
+              
+                <div class="field first-name">
+                  <label class="caption"><input class="field-element field-control" name="fname"
+                  x-autocompletetype="given-name" type="text"
+                  spellcheck="false"
+                  maxlength="30"
+                  data-title="First" />
+                  First Name</label>
+                </div>
+                <div class="field last-name">
+                  <label class="caption"><input class="field-element field-control" name="lname"
+                  x-autocompletetype="surname" type="text"
+                  spellcheck="false" maxlength="30" data-title="Last" />
+                  Last Name</label>
+                </div>
+              </fieldset>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+              <fieldset id="phone-yui_3_17_2_1_1515255280581_76829" class="form-item fields phone required">
+              <div class="title">Phone <span class="required">*</span></div>
+              <legend>Phone</legend>
+              
+                
+                <div class="field text three-digits">
+                  <label class="caption"><input class="field-element" x-autocompletetype="phone-area-code" type="text"
+                  maxlength="3" data-title="Areacode" />
+                  (###)</label>
+                </div>
+                <div class="field text three-digits">
+                  <label class="caption"><input class="field-element" x-autocompletetype="phone-local-prefix" type="text"
+                  maxlength="3" data-title="Prefix" />
+                  ###</label>
+                </div>
+                <div class="field text four-digits">
+                  <label class="caption"><input class="field-element" x-autocompletetype="phone-local-suffix" type="text"
+                  maxlength="4" data-title="Line" />
+                  ####</label>
+                </div>
+              </fieldset>
+            
+
+            
+
+        
+
+            
+
+            
+
+            
+
+            
+
+            
+              <div id="email-yui_3_17_2_19_1515255280581_5918" class="form-item field email">
+                <label class="title" for="email-yui_3_17_2_19_1515255280581_5918-field">Email Address</label>
+                
+                <input class="field-element" name="email" x-autocompletetype="email" type="text" spellcheck="false" id="email-yui_3_17_2_19_1515255280581_5918-field"
+                placeholder="If you provide an email we'll contact you there first." />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+            
+
+            
+
+            
+
+            
+              <div id="textarea-yui_3_17_2_19_1515255280581_5920" class="form-item field textarea required">
+                <label class="title" for="textarea-yui_3_17_2_19_1515255280581_5920-field">Message <span class="required">*</span></label>
+                
+                <textarea class="field-element " id="textarea-yui_3_17_2_19_1515255280581_5920-field" ></textarea>
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+        </div>
+
+      
+
+      
+
+      
+      <div class="form-button-wrapper form-button-wrapper--align-center">
+        <input class="button sqs-system-button sqs-editable-button" type="submit" value="Submit"/>
+      </div>
+      
+
+      
+
+      <div class="hidden form-submission-text"><p>Thanks, we'll be in touch!</p></div>
+
+      <div class="hidden form-submission-html" data-submission-html=""></div>
+    </form>
+
+  </div>
+
+</div>]]></content:encoded>
+      <wp:post_name>contact</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>3</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/new-page/</link>
+      <title>New Page</title>
+      <pubDate>Sat, 06 Jan 2018 18:41:53 +0000</pubDate>
+      <content:encoded><![CDATA[<p>&nbsp;</p>]]></content:encoded>
+      <wp:post_name>new-page</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>4</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/johnsey-wedding-home/</link>
+      <title>Johnsey Wedding Home</title>
+      <pubDate>Tue, 22 May 2018 01:00:53 +0000</pubDate>
+      <content:encoded><![CDATA[<h1 class=text-align-center>About</h1><div class="sqs-image sqs-empty"><div class="sqs-image-content" style="padding-bottom: 60.0%"></div></div>&nbsp;&nbsp;<h3>It all started when…</h3><p>The following is placeholder text known as “lorem ipsum,” which is scrambled Latin used by designers to mimic real copy. Nullam sit amet nisi condimentum erat iaculis auctor. Suspendisse nec congue purus. Nulla lectus ante, consequat et ex eget, feugiat tincidunt metus.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas non leo laoreet, condimentum lorem nec, vulputate massa. Phasellus sodales massa malesuada tellus fringilla, nec bibendum tellus blandit. Sed a ligula quis sapien lacinia egestas. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Phasellus sodales massa malesuada tellus fringilla, nec bibendum tellus blandit.</p>&nbsp;&nbsp;]]></content:encoded>
+      <wp:post_name>johnsey-wedding-home</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>5</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/home/</link>
+      <title>Home</title>
+      <pubDate>Sat, 30 Jun 2018 20:10:48 +0000</pubDate>
+      <content:encoded><![CDATA[<img src="https://static1.squarespace.com/static/5a50f5e99f07f5be3ce73de1/t/5b37e3af0e2e72597365e984/1530389436777/love-13.jpg?format=original" alt=""/>]]></content:encoded>
+      <wp:post_name>home</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>6</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+  </channel>
+</rss>
+
