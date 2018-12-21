@@ -22,3 +22,4 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - legacy-site/
+  - README.md
