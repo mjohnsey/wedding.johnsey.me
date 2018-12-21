@@ -41,4 +41,4 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
-  - legacy-site
+  - legacy-site/
