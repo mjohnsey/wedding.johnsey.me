@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+![Jena and Michael Johnsey Enagement Photo](/assets/home.jpg)
